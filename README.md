@@ -25,7 +25,7 @@ Implements both **user-facing features** and an **admin dashboard**, designed wi
 ## 🚀 Getting Started
 ```bash
 # Clone repository
-git clone https://github.com/Tharindu-Dharmadasa/buynow.git
+git clone https://github.com/Tharindu-Dharmadasa/BuyNow.git
 cd buynow
 
 # Import MySQL schema (found in /database folder)
